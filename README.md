@@ -44,15 +44,12 @@ https://code.visualstudio.com/download
   <li>Download and Install Python</li>
   https://www.python.org/downloads/
 </ul>
-<br>
 
 <b><i>Need chromevox tool to check web accessibility</i></b>
 <ul>
   <li>Add to GOOGLE CHROME Browser</li>
   https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn 
 </ul>
-<br>
-
 <b><i>Knowledge</i></b>
 <ul>
   <li>Knowledge in HTML, CSS, JAVASCRIPT</li>
@@ -60,8 +57,6 @@ https://code.visualstudio.com/download
   <li>Knowledge in web Accessibility</li>
   <li>Knowledge in serviceworkers</li>
 </ul>
-<br>
-
 <b><i>Knowledge Base</i></b>
 <ul>
   <li>HTML TUTORIAL - https://www.w3schools.com/html/</li>
@@ -77,7 +72,7 @@ https://code.visualstudio.com/download
 <p><b>View project Files</b></p>
 <p><b>After Downloading Visual Studio Code</b> --> <i>Open Visual Studio Code software</i> -> <i>Open Folder option</i> -> <i>select Restaurant Review Application folder</i> -> <i>set up your workspace.</i></p>  
 
-<p>To run the project in browser</p>
+<p><b>To run the project in browser</b></p>
 <ul>
 <li> Install Python </li>
 <li> Set current project directory in command prompt using command --> cd c:\project location</li>  

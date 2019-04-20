@@ -90,7 +90,7 @@ https://code.visualstudio.com/download
 
 # Project Description
 
-A mobile-ready web application which provides accessibility features and responsiveness on different sized displays. It provides service worker to cache website data inorder to create offline experience for our users.
+Restaurant Review App is a mobile-ready web application which provides accessibility features and responsiveness on different sized displays. It provides service worker to cache website data inorder to create offline experience for our users.
 
 # Build In
 
